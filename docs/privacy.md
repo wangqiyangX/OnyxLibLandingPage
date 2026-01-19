@@ -8,7 +8,7 @@ outline: deep
 
 ## Introduction
 
-OnyxLib ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application OnyxLib (the "App").
+Ink Lib ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Ink Lib (the "App").
 
 ## Information We Collect
 
@@ -88,7 +88,7 @@ If you use iCloud sync, your data may be transferred to and stored on servers lo
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
 - **Email**: <wangqiyangx@gmail.com>
-- **Website**: <https://onyxlib.qiyang.dev>
+- **Website**: <https://Ink Lib.qiyang.dev>
 
 ## Consent
 

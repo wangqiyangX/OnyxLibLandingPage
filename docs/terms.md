@@ -8,11 +8,11 @@ outline: deep
 
 ## Agreement to Terms
 
-By downloading, installing, accessing, or using OnyxLib (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
+By downloading, installing, accessing, or using Ink Lib (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
 
 ## Description of Service
 
-OnyxLib is a mobile application that allows you to import, manage, organize, and analyze reading notes exported from Onyx Reader. The App provides features including note management, analysis tools, data synchronization, and widgets.
+Ink Lib is a mobile application that allows you to import, manage, organize, and analyze reading notes exported from Onyx Reader. The App provides features including note management, analysis tools, data synchronization, and widgets.
 
 ## Eligibility
 
@@ -174,7 +174,7 @@ No waiver of any term or condition of these Terms shall be deemed a further or c
 If you have any questions about these Terms of Service, please contact us at:
 
 - **Email**: <wangqiyangx@gmail.com>
-- **Website**: <https://onyxlib.qiyang.dev>
+- **Website**: <https://Ink Lib.qiyang.dev>
 
 ## Acknowledgment
 

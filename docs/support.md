@@ -4,21 +4,21 @@ outline: deep
 
 # Support
 
-We're here to help! Find answers to common questions, learn how to use OnyxLib, and get in touch with our support team.
+We're here to help! Find answers to common questions, learn how to use Ink Lib, and get in touch with our support team.
 
 ## Getting Started
 
 ### How do I import notes from Onyx Reader?
 
 1. Export your notes from Onyx Reader in the supported format
-2. Open OnyxLib on your iOS device
+2. Open Ink Lib on your iOS device
 3. Tap the import button
 4. Select the exported file from your device or iCloud Drive
 5. Wait for the import to complete
 
 ### What file formats are supported?
 
-OnyxLib supports notes exported from Onyx Reader in the following formats:
+Ink Lib supports notes exported from Onyx Reader in the following formats:
 
 - Text files (.txt)
 
@@ -27,16 +27,16 @@ OnyxLib supports notes exported from Onyx Reader in the following formats:
 1. Open the Settings app on your iOS device
 2. Tap on your Apple ID at the top
 3. Select "iCloud"
-4. Make sure "OnyxLib" is enabled in the list of apps using iCloud
-5. Open OnyxLib and enable sync in the app settings
+4. Make sure "Ink Lib" is enabled in the list of apps using iCloud
+5. Open Ink Lib and enable sync in the app settings
 
 Your notes will automatically sync across all your devices signed in with the same Apple ID.
 
 ## Frequently Asked Questions
 
-### Can I use OnyxLib without iCloud?
+### Can I use Ink Lib without iCloud?
 
-Yes! OnyxLib works perfectly fine without iCloud. All your notes are stored locally on your device. iCloud sync is optional and only used if you want to access your notes on multiple devices.
+Yes! Ink Lib works perfectly fine without iCloud. All your notes are stored locally on your device. iCloud sync is optional and only used if you want to access your notes on multiple devices.
 
 ### How do I search for specific notes?
 
@@ -47,13 +47,13 @@ You can search for notes by:
 
 Use the search bar at the top of the notes list to quickly find what you're looking for.
 
-### Can I export my notes from OnyxLib?
+### Can I export my notes from Ink Lib?
 
 Yes, you can export your notes in various formats. Go to Settings > Export to save your notes as a file that can be shared or backed up.
 
-### Does OnyxLib work offline?
+### Does Ink Lib work offline?
 
-Absolutely! OnyxLib works completely offline. You only need an internet connection if you're using iCloud sync to sync data between devices.
+Absolutely! Ink Lib works completely offline. You only need an internet connection if you're using iCloud sync to sync data between devices.
 
 ### How do I organize my notes?
 
@@ -66,7 +66,7 @@ You can organize your notes by:
 
 ### What happens if I delete the app?
 
-If you delete OnyxLib:
+If you delete Ink Lib:
 
 - **Without iCloud**: All local data will be deleted
 - **With iCloud**: Your data remains in iCloud and can be restored when you reinstall the app
@@ -87,7 +87,7 @@ Yes! Your data security is our priority:
 ### Notes are not syncing across devices
 
 1. **Check iCloud Settings**:
-   - Ensure iCloud is enabled for OnyxLib in Settings > [Your Name] > iCloud
+   - Ensure iCloud is enabled for Ink Lib in Settings > [Your Name] > iCloud
    - Make sure you're signed in with the same Apple ID on all devices
 
 2. **Check Internet Connection**:
@@ -95,7 +95,7 @@ Yes! Your data security is our priority:
    - Wait a few minutes for sync to complete
 
 3. **Restart the App**:
-   - Close OnyxLib completely
+   - Close Ink Lib completely
    - Reopen the app and wait for sync to complete
 
 ### Import is not working
@@ -137,7 +137,7 @@ Yes! Your data security is our priority:
    - Widgets update periodically, but you can force refresh by removing and re-adding
 
 3. **Check Permissions**:
-   - Ensure OnyxLib has necessary permissions in Settings > Privacy
+   - Ensure Ink Lib has necessary permissions in Settings > Privacy
 
 ## Tips and Best Practices
 
@@ -161,7 +161,7 @@ Yes! Your data security is our priority:
 
 ## Feature Requests and Feedback
 
-We love hearing from our users! Your feedback helps us improve OnyxLib.
+We love hearing from our users! Your feedback helps us improve Ink Lib.
 
 ### How to Submit Feedback
 
@@ -191,7 +191,7 @@ We aim to respond to all inquiries within 48 hours.
 To help us assist you more effectively, please include:
 
 - **Device Information**: iPhone/iPad model and iOS version
-- **App Version**: The version of OnyxLib you're using
+- **App Version**: The version of Ink Lib you're using
 - **Issue Description**: A clear description of the problem or question
 - **Steps to Reproduce**: If reporting a bug, include steps to reproduce it
 - **Screenshots**: If applicable, attach screenshots showing the issue
@@ -206,7 +206,7 @@ To help us assist you more effectively, please include:
 
 - **[Privacy Policy](/privacy)**: Learn how we protect your data
 - **[Terms of Service](/terms)**: Read our terms and conditions
-- **App Store**: Rate and review OnyxLib on the App Store
+- **App Store**: Rate and review Ink Lib on the App Store
 
 ## System Requirements
 
@@ -217,4 +217,4 @@ To help us assist you more effectively, please include:
 
 ---
 
-**Thank you for using OnyxLib!** We're committed to providing you with the best experience for managing your reading notes. If you have any questions or need assistance, don't hesitate to reach out to us.
+**Thank you for using Ink Lib!** We're committed to providing you with the best experience for managing your reading notes. If you have any questions or need assistance, don't hesitate to reach out to us.

@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "OnyxLib"
+  name: "Ink Lib"
   text: "Manage your reading notes"
   tagline: Manage your notes exported from Onyx Reader.
   image:
     src: /logo.png
-    alt: OnyxLib
+    alt: Ink Lib
   actions:
     - theme: brand
       text: Download on the App Store
